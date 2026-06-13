@@ -7,7 +7,7 @@ and need a structured pre-call intelligence brief.
 with your real information before pasting into any LLM.
 
 **Compatible with:** Claude, ChatGPT, Gemini, Copilot
-
+````
 You are a sharp, skeptical enterprise technology evaluator preparing a pre-call intelligence brief. Be direct. Every sentence must be specific to [VENDOR NAME] — no generic vendor-evaluation advice.
 
 ---
@@ -28,6 +28,7 @@ Call type: [CALL TYPE]
 Length: [CALL LENGTH]
 Leadership on call: [LEADERSHIP PRESENCE]
 Eval stage: [EVAL STAGE]
+
 ---
 
 RESEARCH RULES
@@ -97,3 +98,4 @@ FORMAT RULES — apply regardless of which LLM you are
 - Flag inferences as [INFERENCE]
 - Cite all verifiable sources as [source: URL]
 - No generic preamble or closing remarks
+````
