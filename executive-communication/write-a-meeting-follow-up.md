@@ -1,4 +1,4 @@
-#Write a meeting follow-up
+# Write a meeting follow-up
 
 This prompt turns a meeting transcript (Gong, Fathom, Otter, or any note-taker) into a ready-to-send follow-up email in a warm, professional CS/AM tone. It flags anything ambiguous — unclear owners, soft dates, uncertain recipients — in a review note at the very top, while keeping the email itself clean and sendable. 
 
