@@ -1,8 +1,10 @@
 # Operator Prompt Library
 
 A collection of reusable AI prompts built for enterprise operators — 
-CSMs, account managers, and managers up to the director level who need 
-structured, reliable prompts to support everyday business decisions.
+CSMs, account managers, and managers up to the director level. These 
+prompts support the real work of the role: evaluating vendors, preparing 
+for renewals, communicating with executives, analyzing markets, and 
+making faster, better-informed decisions.
 
 Compatible with Claude, ChatGPT, Gemini, and Copilot.
 
