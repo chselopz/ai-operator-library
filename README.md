@@ -13,7 +13,7 @@ Compatible with Claude, ChatGPT, Gemini, and Copilot.
 ### Vendor Evaluation
 - [Grilling a Vendor](vendor-evaluation/grilling-a-vendor.md) — Pre-call intelligence brief for evaluating AI platform vendors
 - [Map a Vendor Landscape for a Category](vendor-evaluation/map-a-vendor-landscape.md) - Decison partner to evaluate vendors for a specific organizational use case.
-- Evaluate AI Vendor Security Posture *(coming soon)*
+- [Evaluate AI Vendor Security Posture](vendor-evaluation/evaluate-ai-vendor-security-posture.md) - Tool to help you prepare an evaluate the base security posture of an AI vendor
 
 ### Executive Communication
 - Build an Executive Business Review Narrative *(coming soon)*
