@@ -18,8 +18,8 @@ Compatible with Claude, ChatGPT, Gemini, and Copilot.
 - [Evaluate AI Vendor Security Posture](vendor-evaluation/evaluate-ai-vendor-security-posture.md) - Tool to help you prepare and evaluate the base security posture of an AI vendor
 
 ### Executive Communication
-- Build an Executive Business Review Narrative *(coming soon)*
-- Write a Meeting Follow-Up *(coming soon)*
+- [Distill a transcript into an executive follow-up](executive-communication/write-a-meeting-follow-up.md) - A prompt that you can drop a transcript into and it will write you a follow-up. 
+- Build a quarterly team impact brief *(coming soon)*
 
 ### Account Management
 - Build a Renewal Defense Brief *(coming soon)*
