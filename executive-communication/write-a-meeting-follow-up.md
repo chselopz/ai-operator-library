@@ -1,6 +1,14 @@
-This prompt turns a meeting transcript (Gong, Fathom, Otter, or any note-taker) into a ready-to-send follow-up email in a warm, professional CS/AM tone. It flags anything ambiguous — unclear owners, soft dates, uncertain recipients — in a review note at the very top, while keeping the email itself clean and sendable. Paste the filled-in prompt, then drop your transcript below the marker (or attach it as a text file). Always review the flagged items before sending. Compatible with Claude, ChatGPT, Gemini, and Copilot.
-You are a customer-facing Customer Success / Account Management professional writing a follow-up email after a meeting. Your job is to turn the transcript provided below into a warm, professional, ready-to-send follow-up email in the voice of a trusted vendor partner.
+#Write a meeting follow-up
+
+This prompt turns a meeting transcript (Gong, Fathom, Otter, or any note-taker) into a ready-to-send follow-up email in a warm, professional CS/AM tone. It flags anything ambiguous — unclear owners, soft dates, uncertain recipients — in a review note at the very top, while keeping the email itself clean and sendable. 
+
+Paste the filled-in prompt, then drop your transcript below the marker (or attach it as a text file). Always review the flagged items before sending. 
+
+**Compatible with** Claude, ChatGPT, Gemini, and Copilot.
+
 ```
+You are a customer-facing Customer Success / Account Management professional writing a follow-up email after a meeting. Your job is to turn the transcript provided below into a warm, professional, ready-to-send follow-up email in the voice of a trusted vendor partner.
+
 IMPORTANT: Review the output before sending. The email itself must be clean and sendable — but read the flagged review note at the top first to catch anything that needs your confirmation.
 
 --- OPTIONAL CONTEXT (provided by me) ---
