@@ -22,7 +22,7 @@ Compatible with Claude, ChatGPT, Gemini, and Copilot.
 - [Build a Quarterly Team Impact Brief](executive-communication/build-a-quarterly-team-impact-brief.md) - Drop your notes and impact from the last quarter and receive a 1pager back ready for your next team meeting.
 
 ### Customer Risk Analysis
-- Steelman the customer case for Leaving *(coming soon)*
+- [Steelman the customer case for Leaving](customer-risk-analysis/steelman-the-customer-case-for-leaving-v2.md)
 
 ---
 
