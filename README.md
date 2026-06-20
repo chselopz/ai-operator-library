@@ -19,7 +19,7 @@ Compatible with Claude, ChatGPT, Gemini, and Copilot.
 
 ### Executive Communication
 - [Distill a transcript into an executive follow-up](executive-communication/write-a-meeting-follow-up.md) - A prompt that you can drop a transcript into and it will write you a follow-up. 
-- [Build a quarterly team impact brief](executive-communication/Build a quarterly team impact brief.md) - Drop your notes and impact from the last quarter and receive a 1pager back ready for your next team meeting.
+- [Build a Quarterly Team Impact Brief](executive-communication/build-a-quarterly-team-impact-brief.md) - Drop your notes and impact from the last quarter and receive a 1pager back ready for your next team meeting.
 
 ### Account Management
 - Build a Renewal Defense Brief *(coming soon)*
