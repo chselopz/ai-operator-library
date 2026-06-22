@@ -1,12 +1,17 @@
 # Steelman the Customer's Case for Leaving
 
-**When to use:** You suspect an account is at risk and want to confront the blind spots before the customer does. This prompt argues the customer's case for churning as convincingly as they would — so nothing catches you off guard.
+**When to use:** You suspect an account is at risk and want to confront the blind spots before the customer does. This prompt argues the customer's case for churning as convincingly as they would — so nothing catches you off guard. Built on one truth: in remote support there is no "do nothing" — if they leave, they're going somewhere, so the case always has a destination.
 
-**How to fill it in:** Provide your tool and website, the customer, a likely competitor (or leave blank and the prompt infers one), and the four signals: usage data, engagement history, your gut read, and competitive pressure. Under five minutes.
+**How to fill it in:** Replace every bracketed placeholder with your real information before pasting into any LLM. Provide your tool and website, the customer, a likely competitor (or leave blank and the prompt infers one), and the four signals: usage data, engagement history, your gut read, and competitive pressure. Spend no more than five minutes on inputs.
 
-**What you get back:** An executive summary, a gap analysis of what you're missing, a ranked list of churn risks, a reconciliation of your gut read against the hard data, a competitive comparison table, and a tailored mitigation move for each risk.
+**What you get back:**
 
-**Built on one truth:** In remote support there is no "do nothing" — if they leave, they're going somewhere. The case for leaving always has a destination.
+- An executive summary led by the hard data
+- A gap analysis of what you're missing
+- A ranked list of churn risks, most to least threatening
+- A reconciliation of your gut read against the hard data
+- A competitive comparison table
+- A tailored mitigation move for each risk
 
 **Compatible with:** Claude, ChatGPT, Gemini, Copilot
 
