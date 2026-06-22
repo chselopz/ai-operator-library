@@ -11,7 +11,7 @@ Every prompt is built on the same four-part framework:
 
 All prompts are compatible with **Claude, ChatGPT, Gemini, and Copilot.**
 
-> \*This library will be updated with new prompts + sections peridically...
+> \*This library will be updated with new prompts and sections periodically
 
 ---
 
