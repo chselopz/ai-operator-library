@@ -1,10 +1,18 @@
-# Write a meeting follow-up
+# Write a Meeting Follow-Up
 
-This prompt turns a meeting transcript (Gong, Fathom, Otter, or any note-taker) into a ready-to-send follow-up email in a warm, professional CS/AM tone. It flags anything ambiguous — unclear owners, soft dates, uncertain recipients — in a review note at the very top, while keeping the email itself clean and sendable. 
+**What this is:** A prompt that turns a meeting transcript into a ready-to-send follow-up email in a warm, professional CS/AM tone — with a review note up top flagging anything you should confirm before sending.
 
-Paste the filled-in prompt, then drop your transcript below the marker (or attach it as a text file). Always review the flagged items before sending. 
+**When to use:** Right after a customer call recorded by Gong, Fathom, Otter, or any note-taker, when you need a polished follow-up email without combing back through the transcript yourself.
 
-**Compatible with** Claude, ChatGPT, Gemini, and Copilot.
+**How to fill it in:** Add your name and company at the top of the prompt (both optional), then paste your transcript below the marker at the bottom — or attach it as a text file for long calls. Always review the flagged items before sending.
+
+**What you get back:**
+
+- A quick review note flagging inferred owners, soft dates, or unclear recipients to check before sending
+- A complete, ready-to-send email (ALWAYS DOUBLE CHECK BEFORE SENDING): subject line, warm opener, key takeaways, next steps with owners, and a forward-looking close
+- A clean email body with no brackets or placeholders — final and sendable as written
+
+**Compatible with:** Claude, ChatGPT, Gemini, Copilot
 
 ```
 You are a customer-facing Customer Success / Account Management professional writing a follow-up email after a meeting. Your job is to turn the transcript provided below into a warm, professional, ready-to-send follow-up email in the voice of a trusted vendor partner.
