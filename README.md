@@ -25,7 +25,7 @@ All prompts are compatible with **Claude, ChatGPT, Gemini, and Copilot.**
 
 ### Vendor Evaluation
 - **[Grilling a Vendor](vendor-evaluation/grilling-a-vendor.md)** — A structured pre-call intelligence brief that researches an AI vendor, exposes their weak spots, and arms you with tiered questions to ask.
-- **[Map a Vendor Landscape](vendor-evaluation/map-a-vendor-landscape.md)** — Researches and ranks the top 5–8 vendors in a category against your use case, plots them on a quadrant, and recommends which to evaluate first.
+- **[Map a Vendor Landscape](vendor-evaluation/map-a-vendor-landscape.md)** — Researches and ranks the top 5–8 vendors in a category against your use case, scores them on two axes, and recommends which to evaluate first.
 - **[Evaluate AI Vendor Security Posture](vendor-evaluation/evaluate-ai-vendor-security-posture.md)** — Maps your security requirements against what's publicly verifiable about a vendor and arms you with sharp security questions for the call.
 
 ### Executive Communication
