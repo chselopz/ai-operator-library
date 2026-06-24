@@ -29,7 +29,7 @@ All prompts are compatible with **Claude, ChatGPT, Gemini, and Copilot.**
 
 ### Executive Communication
 - **[Write a Meeting Follow-Up](executive-communication/write-a-meeting-follow-up.md)** — Turns a meeting transcript into a ready-to-send follow-up email, flagging anything to confirm before you hit send.
-- **[Build a Quarterly Team Impact Brief](executive-communication/build-a-quarterly-team-impact-brief.md** — Turns a quarter of your team's messy notes and metrics into a polished, leadership-ready one-pager.
+- **[Build a Quarterly Team Impact Brief](executive-communication/build-a-quarterly-team-impact-brief.md)** — Turns a quarter of your team's messy notes and metrics into a polished, leadership-ready one-pager.
 
 ### Customer Risk Analysis
 - **[Steelman the Customer's Case for Leaving](customer-risk-analysis/steelman-the-customer-case-for-leaving-v2.md)** — Argues your customer's case for churning as convincingly as they would, exposing blind spots before the customer acts on them.
