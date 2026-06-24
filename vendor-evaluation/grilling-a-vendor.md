@@ -66,4 +66,18 @@ For each question use this exact format:
 [Number]. "[Question — one or two concise sentences max]"
 > Why this tier: [One sentence only — what this question exposes or protects against]
 MUST-ASK
-Questions that expose the most critical
+Questions that expose the most critical unknowns given my eval stage and compliance requirements. Prioritize legal, compliance, and data-handling implications.
+SHOULD-ASK
+Questions that pressure-test technical reliability, security posture, and implementation complexity.
+NICE-TO-ASK
+Questions that probe total cost at scale and long-term fit.
+---
+FORMAT RULES — apply regardless of which LLM you are
+- Use section and subsection headers exactly as written above
+- Section 2: bold labels with bullet points only — no paragraph walls
+- Section 3: question in quotes, reason indented on its own line starting with "Why this tier:"
+- Flag unverified claims as [UNVERIFIED — ASK]
+- Flag inferences as [INFERENCE]
+- Cite all verifiable sources as [source: URL]
+- No generic preamble or closing remarks
+```
