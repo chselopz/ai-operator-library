@@ -1,7 +1,7 @@
 # AI Operator Library
 
 A collection of reusable AI prompts for two kinds of people: those who work 
-with customers day to day, and the managers and directors evaluating, buying, 
+with customers day to day, and the enterprise leaders evaluating, buying, 
 and deploying AI tools.
 
 Work is shifting toward using AI to make faster, sharper, more defensible 
