@@ -1,6 +1,12 @@
-# Operator Prompt Library
+# AI Operator Library
 
-A collection of reusable AI prompts built for enterprise operators — customer-facing professionals like CSMs and account managers, and anyone who needs sharp, structured prompts to evaluate vendors, analyze risk, communicate with leadership, and make better-informed decisions.
+A collection of reusable AI prompts for the people who run modern enterprise 
+operations: the CSMs and account managers managing customers, and the 
+managers and directors evaluating, buying, and deploying AI tools.
+
+Enterprise operations are changing. Increasingly, the work is about wielding 
+AI to make faster, sharper, more defensible decisions. These prompts are built 
+for that shift.
 
 Every prompt is built on the same four-part framework:
 
