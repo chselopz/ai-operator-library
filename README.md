@@ -1,12 +1,11 @@
 # AI Operator Library
 
-A collection of reusable AI prompts for the people who run modern enterprise 
-operations: the CSMs and account managers managing customers, and the 
-managers and directors evaluating, buying, and deploying AI tools.
+A collection of reusable AI prompts for two kinds of people: those who work 
+with customers day to day, and the managers and directors evaluating, buying, 
+and deploying AI tools.
 
-Enterprise operations are changing. Increasingly, the work is about wielding 
-AI to make faster, sharper, more defensible decisions. These prompts are built 
-for that shift.
+Work is shifting toward using AI to make faster, sharper, more defensible 
+decisions. These prompts are built for that shift.
 
 Every prompt is built on the same four-part framework:
 
