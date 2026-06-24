@@ -1,6 +1,6 @@
 # Map a Vendor Landscape
 
-**What this is:** A prompt that researches and ranks the top 5–8 vendors in a category against your specific use case, then plots them on a quadrant and recommends which to evaluate first — a defensible vendor map you can bring to leadership.
+**What this is:** A prompt that researches and ranks the top 5–8 vendors in a category against your specific use case, scores them on two weighted axes, and recommends which to evaluate first — a defensible vendor map you can bring to leadership.
 
 **When to use:** Before any vendor has been selected, when you need to understand who the major players in a category are, how they compare, and which ones are even worth evaluating.
 
@@ -10,8 +10,8 @@
 
 - Up to 5 clarifying questions before research begins
 - Individual vendor profiles (5–8 vendors) with sourced evidence
-- Numerical scoring on two axes: Enterprise Fit and Solution Strength
-- A quadrant placement for each vendor
+- A scoring rubric rating each vendor on two axes: Enterprise Fit and Solution Strength
+- A tier label for each vendor (Evaluate First, Promising but Risky, Safe but Limited, Skip)
 - A side-by-side comparison table
 - A ranked recommendation with a single vendor to evaluate first
 
@@ -75,12 +75,12 @@ Identify the top 5–8 vendors in the [VENDOR CATEGORY] category. For each vendo
 
 ---
 
-STEP 3 — QUADRANT SCORING
+STEP 3 — SCORING RUBRIC
 (Do not begin this step until Step 2 is complete.)
 
-Score each vendor on two axes using a 1–10 scale. Show scoring in a table before assigning quadrants.
+Score each vendor on two axes using a 1–10 scale. Show the scoring in a table, and briefly justify each score in one line.
 
-X-AXIS — ENTERPRISE FIT FOR [COMPANY SIZE]
+AXIS 1 — ENTERPRISE FIT FOR [COMPANY SIZE]
 Score based on:
 - Deployment complexity at this company size
 - Pricing model scalability at this headcount
@@ -88,7 +88,7 @@ Score based on:
 - Integration depth with my specific stack ([TECH STACK])
 - Compliance posture against my requirements ([COMPLIANCE REQUIREMENTS])
 
-Y-AXIS — SOLUTION STRENGTH FOR THIS USE CASE
+AXIS 2 — SOLUTION STRENGTH FOR THIS USE CASE
 Score based on:
 - How directly the product solves: [PROBLEM TO SOLVE]
 - Feature depth for this specific use case (not general product quality)
@@ -96,28 +96,30 @@ Score based on:
 - AI maturity and reliability of the core capability
 
 SCORING TABLE FORMAT:
-| Vendor | Enterprise Fit (X) | Solution Strength (Y) | Quadrant |
-|--------|-------------------|----------------------|----------|
+| Vendor | Enterprise Fit (1–10) | Solution Strength (1–10) | Tier |
+|--------|----------------------|--------------------------|------|
 
-Assign each vendor to one of four quadrants:
-- Evaluate First: X ≥ 6 and Y ≥ 6
-- Promising but Risky: X < 6 and Y ≥ 6
-- Safe but Limited: X ≥ 6 and Y < 6
-- Skip: X < 6 and Y < 6
+Assign each vendor a tier based on its two scores:
+- Evaluate First: both scores ≥ 6
+- Promising but Risky: Solution Strength ≥ 6 but Enterprise Fit < 6
+- Safe but Limited: Enterprise Fit ≥ 6 but Solution Strength < 6
+- Skip: both scores < 6
+
+Below the table, add one line per vendor justifying why it landed in its tier.
 
 ---
 
 STEP 4 — VENDOR COMPARISON TABLE
 (Do not begin this step until Step 3 is complete.)
 
-| Vendor | Sweet spot size | Key differentiator | Stack fit | Compliance | Pricing signal | Quadrant |
+| Vendor | Sweet spot size | Key differentiator | Stack fit | Compliance | Pricing signal | Tier |
 
 ---
 
 STEP 5 — RANKED RECOMMENDATION
 (Do not begin this step until Step 4 is complete.)
 
-Rank the vendors in the Evaluate First quadrant by overall score. For each:
+Rank the vendors in the Evaluate First tier by overall score. For each:
 
 **[Rank]. [Vendor name] — [One-line summary]**
 - Why it scores here: [2–3 bullets, evidence-based]
